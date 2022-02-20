@@ -29,7 +29,7 @@ ___
 
 ### `SOCIAL MEDIA`
 - [![Owner Arda](https://img.shields.io/badge/Developer-ArdaSaha-brightgreen)](https://bit.ly/ArdaSahaWA)
-- [![Join Grup Bot Arda](https://img.shields.io/badge/Join%20Group-000000?style=social&logo=whatsapp&logoColor=brightgreen)](https://chat.whatsapp.com/EEuvxqQuv4bGsjrTttzFz8) 
+- [![Join Grup Bot Arda](https://img.shields.io/badge/Join%20Group-000000?style=social&logo=whatsapp&logoColor=brightgreen)](https://chat.whatsapp.com/CFpy7emsxtqGTCqW4ZUKpl) 
 - [![Instagram Arda](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&logoColor=ff69b4)](https://bit.ly/ArdaSaha10)
 - [![Faceebok Arda](https://img.shields.io/badge/Facebook-ff007f?style=social&logo=facebook&logoColor=0080ff)](https://bit.ly/TikTokArda)
 - [![Youtube Arda](https://img.shields.io/badge/Youtube-000000?style=social&logo=youtube&logoColor=red)](https://bit.ly/YTarda)
